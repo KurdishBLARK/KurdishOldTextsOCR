@@ -1,6 +1,7 @@
 # KurdishOldTextsOCR
 
 Researcher: Blnd yaseen
+
 Advisor: Hossein Hassani
 
 # Making Old Kurdish Publications Processable by Augmenting Available Optical Character Recognition Engines
